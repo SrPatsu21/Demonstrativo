@@ -8,6 +8,12 @@
 
 ##### h 5
 
+***
+
+---
+
+_________________
+
 - principal
   - secundario
     - terciario
@@ -19,7 +25,7 @@
     2. subitem 2
 3. item 3
 
-`code1` \
+`code 1` \
 ``code 2`` \
 ```code 3```
 
