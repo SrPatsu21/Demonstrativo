@@ -21,9 +21,9 @@
 
 `code1` \
 ``code 2`` \
-```code 3``` \
+```code 3```
 
-_italico_ __negrito__ ___negritoItalico___ \
+_italico_ __negrito__ ___negritoItalico___
 
 > bloco 1
 >> nested block
