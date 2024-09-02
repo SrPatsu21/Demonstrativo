@@ -19,7 +19,9 @@
     2. subitem 2
 3. item 3
 
-`code1` \ ``code 2`` \ ```code 3``` \
+`code1` \
+``code 2`` \
+```code 3``` \
 
 _italico_ __negrito__ ___negritoItalico___ \
 
